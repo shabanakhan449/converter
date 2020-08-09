@@ -1,0 +1,45 @@
+.body{
+    background-color: rgb(135, 135, 202);
+}
+input{
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.active,li:hover{
+    background-color: yellow;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    margin-top: 50px;
+    color: darkmagenta;
+    background-color: white;
+    box-shadow: 5px 5px black;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.paragraph{
+    margin-top: 20px;
+    
+}
+/* .paragraph-1{
+    margin-top: 20px;
+    margin-right: 200px;
+} */
+.carousel-inner,.carousel-item,.img{
+    height: 500px;
+    width: 100%;
+}
+.list-group{
+    margin-top: 50px;
+}
+.float-right{
+    margin-right: 140px;
+    margin-top: 180px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.list-group{
+    background-color: cornsilk;
+}
